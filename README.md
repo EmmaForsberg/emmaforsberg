@@ -23,4 +23,4 @@ Här är några av de tekniker jag arbetar med:
 
 ### 📫 Kontakta mig
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LÄNK_TILL_DIN_LINKEDIN_HÄR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emma-forsberg/)
